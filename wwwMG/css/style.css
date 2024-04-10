@@ -1,0 +1,29 @@
+html{
+    box-sizing:border-box;
+}
+
+*,
+::before
+::after {
+    box-sizing: inherit;
+}
+
+h1{
+    text-align: center;
+}
+
+li{
+    text-align: center;
+}
+
+p {
+    color:black(128, 0, 255, 0.045)
+}
+
+h3 {
+    text-decoration: dotted;
+}
+
+body {
+    background-color: yellow
+}
